@@ -8,6 +8,7 @@
 
 # Parameters adjustment
 ![image](https://github.com/user-attachments/assets/2652f4a7-9841-4cf9-a434-a07fdd58b575)
+
 BATCH_SIZE - How many pictures to train at a time, this will be evaluated based on the VRAM on your GPU or RAM if you are training on CPU.
 IMG_HEIGHT, IMG_WIDTH - the size of the picture that the program will unify on all the images before training.
 NUM_WORKERS - # of cores that simultanously work with GPU to feed it data.
