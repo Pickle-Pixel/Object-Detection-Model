@@ -1,5 +1,5 @@
 # Object Detection Model
- This is a model to detect objects for Captcha Solving
+ This is a model trained for a specific purpose, collect and use your own images and train it to serve your purpose.
 
 # How to start
 - Start by collecting the images you need to the model to detect and learn
