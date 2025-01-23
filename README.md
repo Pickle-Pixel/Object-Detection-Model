@@ -1,7 +1,7 @@
-# Object Detection Model
- This is a model trained for a specific purpose, collect and use your own images and train it to serve your purpose.
+# Captcha Solving Model
+ This is a model trained specifically to solve captcha, purpose of this is to further automate one of my side projects that needs continuous captcha solving, this was one of the best solutions that i came up with in the world of automation.
 
-# How to start
+# A Guide on how to make your own Captcha Solving Model
 - Start by collecting the images you need to the model to detect and learn
 - put them in the DataSets folder with each folder relating to 1 class only ex. if the pictures are hats then you place them under hats folder.
 - make sure all the pictures are same size or almost same size, because before training all images will be resized based on the parameters given.
